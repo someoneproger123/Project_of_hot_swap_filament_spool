@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "PlasticDozator",
+			"path": "../../Arduino/PlasticDozator"
+		}
+	],
+	"settings": {}
+}
